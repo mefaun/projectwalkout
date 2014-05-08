@@ -381,8 +381,7 @@ Dancers are able to form crews. Crews can enter competitions to win fanfare and 
 = MOVE GUIDE =
 ============
 
-STATUS: draft
-NEEDS COMPLETED:
+STATUS: draft, needs completion
 
 This guide will explain in detail every move in the game.
 
