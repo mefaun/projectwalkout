@@ -19,7 +19,7 @@ I feel a lot of things are still rather vague at this moment. We will have to di
 = OVERVIEW =
 ============
 
-Hip-Hop Life is a web browser-based multi-player dancer simulation game (RPG). This design document states the goals and purposes of codename WALKOUT (version 1.0).
+Hip-Hop Life is a web browser-based multi-player dancer simulation game (RPG). This design document states the goals and purposes of codename WALKOUT (version 0.1).
 
 Every developer should always work from the latest version of the design document.
 
@@ -377,7 +377,9 @@ Requires: Boogaloo lvl 5., Steppin lvl 5.
 
 
 SUBJECT: self and player-driven NPCs
+
 STATUS: IMPORTANT
+
 Non-Player Characters (NPCs), including encounters, are basically driven by the players themselves. Every time a page is loaded, a simple script will have to determine the character's next movement.
 
 Some NPCs should also be controllable by players. Making a NPC controllable, by one of our staff or voluntary members, will create random surprises to players.
@@ -387,6 +389,7 @@ Some NPCs should also be controllable by players. Making a NPC controllable, by 
 SUBJECT: Character Screen
 
 STATUS: Draft
+
 On this page the player views information about the dancer.
 Character Attributes (and its system) are described better in detail on the game design document.
 Displays Dancer Type, Perks, Style, Attributes, Current Research Points, # of Fans, Friends, Crew Name, Affiliated Crews, Battle Ranking
@@ -396,6 +399,7 @@ Displays Dancer Type, Perks, Style, Attributes, Current Research Points, # of Fa
 SUBJECT: Training
 
 STATUS: draft
+
 Players will train at their home using research points and stamina. If they are given access to other locations such as studios, they can train there as well for bonuses. They will use stamina to strengthen moves they have learned already. Research points are used to obtain new moves but require time.
 
 Strength drill can increase more
@@ -404,23 +408,29 @@ hits.
 Footwork Drill can increase the damage of leg moves.
 
 Musicality Drill will increase fans.
+
 Isolation drill makes moves clean.
 
 --
 
 SUBJECT: Shops
+
 INTRODUCTION: Shops will let dancers obtain items and shoes that they need to compete with other players.
+
 STATUS: draft
 
 --
 
 SUBJECT: Battles
+
 STATUS: draft
+
 Players can battle other players by whoever is online. Players can also enter competitions (nPCs or Live Events) to win fanfare and win top prizes.
 
 --
 
 SUBJECT: Crews
+
 STATUS: draft
 
 Dancers are able to form crews. Crews can enter competitions to win fanfare and win top prizes.
@@ -440,28 +450,36 @@ This guide will explain in detail every move in the game.
 Safe moves are deemed safe when executing.
 
 MOVE: Dime stop
+
 STAMINA: 3pts
+
 STRENGTH: 5pts
 End a pose with an abrupt halt.
 
 
 MOVE: Arm Wave
+
 STAMINA: 5pts
 A fluid motion with the arms.
 
 MOVE: Side Glide
+
 STAMINA: 7pts
 a Footwork move.
 
 MOVE: Foxtrot
+
 MOVE: Float
+
 MOVE: Shuffle
+
 MOVE: Crossover
 
 *SIGNATURE MOVES*
 *****************************
 
 MOVE:Wiggle Walk
+
 MOVE:Ground-body Wave
 
 
