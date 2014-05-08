@@ -2,7 +2,7 @@
 [ Hip-Hop Life Design Document for Project WALKOUT]
 ---------------------------------------------------
 
-----> The material contained in this document does not constitute an offer for sale. Information expressed are subject to change at any time. The material is based upon information which is considered reliable, but no representation is made that it is accurate or complete, and should not be relied upon.
+    The material contained in this document does not constitute an offer for sale. Information expressed are subject to change at any time. The material is based upon information which is considered reliable, but no representation is made that it is accurate or complete, and should not be relied upon.
 
 Revision 1
 Date Created 4 May 2014
