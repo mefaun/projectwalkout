@@ -68,6 +68,8 @@ Each player can equip with his or her own moves learned and develop their own pe
 
 Extra styles or moves could be learned from buying a DVD at the shop. Some may build a dance studio and make profit that way rather than competitions.
 
+A Ranking page will be accessed by the player to let the player know their current standings. They can select options, filtering ranking such as: Top 10 Dancers, Top 50 Dancers, Top 10 Crews, and so on.
+
 
 = THE PLATFORM =
 ===============
@@ -93,7 +95,7 @@ WALKOUT is a persistent world. However to maintain a balance between old and new
 
 The aging process includes faster skills atrophy, greater chance of creative boxk, and eventually involving quittage.
 
-As there is always a possibility to expand the worlds and implementing new things, I estimate the lifespan of the final product can last for a few years.
+*As there is always a possibility to expand the game by adding other elements of hiphop into the game and implementing  other new things, I estimate the lifespan of the final product can last for more than just a few years.*
 
 
 
@@ -376,7 +378,8 @@ Requires: Boogaloo lvl 5., Steppin lvl 5.
 
 
 
-SUBJECT: self and player-driven NPCs
+= SUBJECT: self and player-driven NPCs =
+========================================
 
 STATUS: IMPORTANT
 
@@ -384,9 +387,8 @@ Non-Player Characters (NPCs), including encounters, are basically driven by the 
 
 Some NPCs should also be controllable by players. Making a NPC controllable, by one of our staff or voluntary members, will create random surprises to players.
 
---
-
-SUBJECT: Character Screen
+= SUBJECT: Character Screen =
+=============================
 
 STATUS: Draft
 
@@ -475,8 +477,8 @@ MOVE: Shuffle
 
 MOVE: Crossover
 
-*SIGNATURE MOVES*
-*****************************
+SIGNATURE MOVES
+***************
 
 MOVE:Wiggle Walk
 
