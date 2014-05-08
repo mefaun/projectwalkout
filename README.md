@@ -8,8 +8,7 @@ Revision 1
 --
 Date Created 4 May 2014
 --
-Last Modified 7 May 2014
---
+Last Modified 8 May 2014
 
 
 (C) 2014 Michael W Hsu <mefaun at gmail.com>
@@ -130,52 +129,74 @@ Athletic body is pretty good at doing cleans moves, hard to achieve. recovers st
 --
 
 SUBJECT: Dancer Style
+
 STATUS: important
+
 DESCRIPTION:
 The style is not entirely by choice but by the path the character follows. The style is determined by the players's path in the tutorial. Types of dancers known to the WALKOUT world are:
 
 (Form: A more descriptive input is required from you especially when I am not good at the language. The description should first concentrate on descriptive / qualitative approach first, then game attribute / quantitative. Which is obviously not what I am doing here.)
 
 < Allstyles >
+
 Introduction: Allstyles are of a well-balanced style to which all others compare to, with no particular strengths or weaknesses.
+
 Appearance: Passionate, confident features.
+
 Feature: Well balanced attributes.
 
 < Storyteller>
+
 Introduction: You recover stamnia much quicker which lets you freely tell your story more in rounds. Your hits however appear less common.
 
 
 < Creative >
+
 Introduction: Creative dancers tend to study more than whats at their local dance community. They show advanced intelligence amongst other  dancers.
+
 Appearance: Standout-ish, lacks confidence.
+
 Feature: Chance of more style points during training are better.
 
 < Genius >
+
 Introduction: They seem to be clean and don't crash. They have high musicality.
+
 Appearance: Hipster. Always has earbuds on.
+
 Feature: High musicality.
 
 < Powerhead >
+
 Introduction: Powerheads are small & robust with remarkable amount of strength and vitality, thus able to do more difficult moves.
+
 Appearance: Short and robust.
+
 Feature: Greater strength. Can do more difficult moves. Chances of crashing are fewer.
 
 < Crowdpleaser >
+
 Introduction: Crowdpleasers have tons of fans. They tend to get the upperhand at battles.
+
 Appearance: Stands-out. A Show-off. (need reorganising)
+
 Feature: Greater chance of absorbing more fans. More Hit Points Judge favors Crowdpleasers if execution is done right.
 
 < Street Performer >
 
 Introduction: Street performers are always on the streets performing for either a quick buck or building a fan base.
+
 Features: Get bonuses training or competing at the park or street.
 
 * to be implemented at a later release
 --
 
 SUBJECT: skills and professions
+
 STATUS: draft
+
 DESCRIPTION:
+
 Professions are again not selected specifically by the player but determined by what skills the character has developed. A reasonable amount of social involvement is required to establish a profession. This can ensure enough player-to-player interactions and provide players opportunities to meet new players to keep the game interesting.
 
 BBoys
@@ -195,38 +216,51 @@ Poppers
 < Stepper - Base >
 
 INTRODUCTION: Nice footwork.
+
 MOVES: Walk Out, Shuffle, Crossover
+
 REQUIRES FOR: Strut, Float, Crazy legs
 
 < Boogaloo - Base >
 
 INTRODUCTION: High in Stamnia.
+
 MOVES: Fresno, Oldman
+
 REQUIRES FOR:
+
 BONUSES: Stamina
+
 ATTRIBUTES:
 
 < Wave - Base >
 
 INTRODUCTION: Very fluid.
+
 Moves: Arm Wave, Body Wave, Fixed Waves
+
 Requires for:
+
 Bonuses:
 
 < Tut - Base >
 
 Introduction: Exploit the body's ability to make geometric positions and movements.
+
 Moves: Boxes,
+
 Bonuses: Execution not difficult, lacks fan support.
 
 < Floats >
 
 INTRODUCTION:
+
 MOVES: Backslide, Side Glide , Airwalk (at lvl 3), Circle Glide (at lvl 5)
 
 < Ground Mover >
 
 You put more emphasis on ground moves
+
 MOVES: Knee Glide, UFO, Backdrop
 
 PRE-REQUISITE: Stepper lvl 5.
@@ -235,13 +269,16 @@ PRE-REQUISITE: Stepper lvl 5.
 
 With the flex and isolation of the chest muscle, your mind and body feels like in total control.
 Robot moves attract more fans.
+
 Moves: Chest Bop, Knee Bop, Remote Control
+
 PRE-REQUISITE: Robot lvl 5., Boogaloo Lvl. 5
 
 
 < Animation >
 
 Done by pantomimes of the past, Animation  is the umbrella term that is wise in style, but difficult to learn.
+
 Moves: Scarecrow, Puppet, Strobing
 
 < Trick >
@@ -251,6 +288,7 @@ Lots of blowups.
 < Robot >
 
 A style imitating a robot or mannequin.
+
 MOVES: Dime stop
 
 < Boogaloo >
@@ -263,7 +301,9 @@ With an unknown origin yet done by many, Boogaloo is a groove style that is high
 < Bopping >
 
 With the flex and isolation of the chest muscle, your mind and body feels like in total control.
+
 MOVES: Chest Bop, Knee Bop
+
 BONUSES: Robot moves attract more fans.
 
 < Strut >
@@ -271,6 +311,7 @@ BONUSES: Robot moves attract more fans.
 Created in the Bay Area, strutting does lots of damage and is seen a strength style.
 
 Moves: Clinkin'
+
 BONUSES: With Robot, crew routines
 
 < Threader >
@@ -292,6 +333,7 @@ Perks are can be obtained from random by Training or buying them from a shop.
 Based on action figures, Straight arms and right angles are lethal in battle.
 
 Strutting moves have higher critical hit damage.
+
 Requires: Animation lvl 7, Strut lvl 5.
 
 < Ticking >
@@ -300,6 +342,7 @@ You pop at smaller intervals. This is twice as fast as normal.
 
 
 You are able to do more hits in battle., with the cost of stamnia.
+
 Requires:
 
 < Animatronic >
@@ -321,6 +364,7 @@ Requires: Wave lvl 5, Animation lvl 2.
 < Contortionist >
 
 You seem to understand the anatomy more than the average dancer. You have less hits but you have a fluid motion.
+
 Pre-requisite: Wave lvl. 7, Animation lvl. 10
 
 < Crazy Legs >
@@ -341,6 +385,7 @@ Some NPCs should also be controllable by players. Making a NPC controllable, by 
 --
 
 SUBJECT: Character Screen
+
 STATUS: Draft
 On this page the player views information about the dancer.
 Character Attributes (and its system) are described better in detail on the game design document.
@@ -349,6 +394,7 @@ Displays Dancer Type, Perks, Style, Attributes, Current Research Points, # of Fa
 --
 
 SUBJECT: Training
+
 STATUS: draft
 Players will train at their home using research points and stamina. If they are given access to other locations such as studios, they can train there as well for bonuses. They will use stamina to strengthen moves they have learned already. Research points are used to obtain new moves but require time.
 
