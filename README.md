@@ -5,13 +5,13 @@
     The material contained in this document does not constitute an offer for sale. Information expressed are subject to change at any time. The material is based upon information which is considered reliable, but no representation is made that it is accurate or complete, and should not be relied upon.
 
 Revision 1
---
+
 Date Created 4 May 2014
---
+
 Last Modified 8 May 2014
 
 
-(C) 2014 Michael W Hsu <mefaun at gmail.com>
+(C) 2014 Michael W Hsu mefaun@gmail.com
 
 I feel a lot of things are still rather vague at this moment. We will have to discuss this document over and set a more definite, clearer goal.
 
