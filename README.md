@@ -8,7 +8,7 @@ Revision 1
 
 Date Created 4 May 2014
 
-Last Modified 8 May 2014
+Last Modified 9 May 2014
 
 
 (C) 2014 Michael W Hsu mefaun@gmail.com
@@ -26,15 +26,11 @@ Every developer should always work from the latest version of the design documen
 = THE USER EXPERIENCE =
 =======================
 
-The fundamental architecture of the game engine is based on gaming ideas from classic computer role-playing games (cRPG) we may have played on videogame consoles or computer.
-
-I thoroughly enjoyed playing cRPGs - from character creation till the final encounters - the broad range of spells, skills and specialties, and more.
+The fundamental architecture of the game engine is based on gaming ideas from Browser-based games.
 
 I am simply fascinated by the extent of details and rich role-playing atmosphere.
 
-As a player of Hip-Hop Life, he or she will experience a turn-based multiplayer game with extracts of the essentials from various cRPGs,
-
-combined with interesting ideas from other types of RPGs such as multiple user dungeons (MUDs), paper & pen RPGs (pnpRPGs).
+As a player of Hip-Hop Life, he or she will experience a turn-based multiplayer game with extracts of the essentials from various cRPGs, combined with interesting ideas from other types of browser-based games.
 
 Hip-Hop Life is written in PHP, a powerful dynamic server-side scripting language. A multiplayer environment is created by manipulation of the MySQL database.
 
@@ -44,15 +40,11 @@ Real-time interactions are limited by a tick-based system, in a form of stamina.
 
 Although timing can be affected by the variable connection speeds, a forced delay is imposed on the player as a consequence of each action to balance the difference.
 
-The basic interface to the role-playing environment consists of a character's view to the surroundings, known as "local view".
+The basic interface to the role-playing environment consists of pages, and a map of their current location.
 
-A local view includes structures (such as shops, houses, stages, etc.), objects (such as items) and players within the region.
+The map will include structures (such as shops, houses, stages, etc.) for the user to visit.
 
-Interactions between players (visualisation, talk, trade or battle) are also usually limited to a particular region.
-
-A picture and description may be attached to special locations. Adjacent locations are joined together in a hexagonal manner to form a world.
-
-These locations are represented by square tiles (much like classic cRPGs).
+Interactions between players (visualisation, talk, trade or battle) are also usually limited to their own particular pages.
 
 Role-playing is encouraged in the game by relying on individual players' co-operation and respect. This can also be enforced by game rules and penalties.
 
